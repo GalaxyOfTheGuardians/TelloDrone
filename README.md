@@ -13,7 +13,7 @@ Hvilke teknologier sidder i dronen?
 5. Vision Positioning System - able to hover in doors
 6. Batteri ≈ 13 mins
 7. Mikro usb port - why no usb c??
-
+![Tello.png](Photo%2FTello.png)
 
 Hvordan holder den sig i luften?
 Vha. 4 propeller og en lille computer som kan kommunikere med controlleren kan den styres og dermed må det være pre-programmere at den skal holde den en konstant fart på motorerne som ville få et input for sensoren under som også fungere til deres "bounce mode”
